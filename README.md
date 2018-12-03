@@ -1,5 +1,7 @@
 # Telstra Arduino MKR NB 1500 Examples
 
+Note: The below examples use straight AT commands so doesnt need the Arduino MKR library which can be found here [Arduino MKRNB](https://telstradev.com/mkr) 
+
 These sketches demonstrate how to;
 
 - Register an MKR NB 1500 on Cumulocity
